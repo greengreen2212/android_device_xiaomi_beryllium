@@ -9,11 +9,11 @@
     "remote": "github",
     "repository": "greengreen2212/android_device_xiaomi_beryllium",
     "target_path": "device/xiaomi/beryllium",
-    "branch":"lineage-18.1"
+    "branch":"lin1"
   },
   {
     "remote": "github",
-    "repository": "greengreen2212/vendor_xiaomi",
+    "repository": "walternewtz/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch":"eleven"
   },
