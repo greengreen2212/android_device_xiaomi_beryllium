@@ -12,8 +12,8 @@
     "branch":"lineage-18.1"
   },
   {
-    "remote": "github",
-    "repository": "greengreen2212/vendor_xiaomi",
+    "remote": "walternewtz",
+    "repository": "walternewtz/vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch":"eleven"
   },
