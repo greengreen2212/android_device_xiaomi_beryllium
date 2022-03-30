@@ -27,6 +27,6 @@
     "remote": "github",
     "repository": "walternewtz/android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
-    "branch": "lineage-18.1"
+    "branch": "lineage-19.0"
   }
 ]
